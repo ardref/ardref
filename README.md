@@ -22,7 +22,9 @@ My first Docker image is cd45/kotti. Just point a browser to 127.0.0.1:5000, onc
 - 💞️ I’m looking to collaborate on ...
 
 I own the domain NewsTube.com, which I intend to be an "Open Content" non-profit media platform.
+
 **I wish to transfer ownership of this domain to a trust of some kind**, free of charge.
+
 Part of my will in fact, which needs updating.
 
 The purpose of NewsTube is to provide a genuine alternative to corporate media giants, a kind
