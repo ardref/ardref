@@ -34,7 +34,7 @@ This may sound corny but "By The People, Of The People, For The People" could be
 I am not American. We have severe challenges to Democracy here in the UK as well as elsewhere, so this my
 attempt to combat the drift towards a Brave New World.
 
-I intend such a trust to operate along 'Social Enterprise' lines, with Mondrian being a good example I believe.
+I intend such a trust to operate along 'Social Enterprise' lines, with Mondragon being a good example I believe.
 The Independent Publishers who will be providing most of the content should probably have a say in the site's operation.
 
 They can expect to receive more money for their efforts than they could get elsewhere, as profit is not such an issue.
@@ -58,6 +58,8 @@ Further details on request, if anyone is interested.
 
 @Richard_4_2_0 on Twitter.
 
+Mondragon:
+https://en.wikipedia.org/wiki/Mondragon_Corporation
 
 <!---
 ardref/ardref is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
